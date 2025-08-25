@@ -13,4 +13,5 @@ def home():
 def leaderboard():
     # Dati finti per test, poi li sostituiamo col salvataggio reale
     fake_data = [
-        {"player": "Mario", "coi
+         {"player": "Mario", "coin": 100}
+
